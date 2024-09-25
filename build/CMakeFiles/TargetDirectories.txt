@@ -1,3 +1,0 @@
-/home/cyc/homework/build/CMakeFiles/hello_world.dir
-/home/cyc/homework/build/CMakeFiles/edit_cache.dir
-/home/cyc/homework/build/CMakeFiles/rebuild_cache.dir
